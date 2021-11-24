@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "253fdff8-1905-f6d8-1080-55f134512920"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science Activism: Gender, Race, and Power",
+  "course_description": "This subject examines the role scientists have played as activists in social movements in the U.S. following World War II. Themes include scientific responsibility and social justice, the roles of gender, race, and power, the motivation of individual scientists, strategies for organizing, and scientists\u2019 impact within social movements. Case studies include atmospheric testing of nuclear weapons and the nuclear freeze campaign, climate science and environmental justice, the civil rights movement, Vietnam War protests, the March 4 movement at MIT, concerns about genetic engineering, gender equality, intersectional feminism, and student activism at MIT.\n\nRead a profile of the class \"[Scientists as Engaged Citizens](https://shass.mit.edu/news/news-2020-class-profile-science-activism-wgs-sts)\" by the MIT School of Humanities, Arts, and Social Sciences.\n",
+  "department_numbers": [
+    "WGS",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.021J",
+  "primary_course_number": "WGS.160J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
